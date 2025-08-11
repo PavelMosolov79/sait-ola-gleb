@@ -3,6 +3,7 @@ import Paper from "./assets/paper.png";
 import PaperTwo from "./assets/paperTwo.png";
 import Gleb from "./assets/gleb.png";
 import Ola from "./assets/ola.png"
+import Shaha from "./assets/shaha.png"
 
 
 function App() {
@@ -22,9 +23,24 @@ function App() {
       </div>
       <div
         style={{ backgroundImage: `url(${PaperTwo})` }}
-        className='one-block'
+        className='two-block'
       >
         <div>
+          <h3>
+            Дорогие друзья и родные!
+          </h3>
+          <p>
+            Приглашаем Вас на торжество посвященное дню нашей свадьбы!
+          </p>
+          <h3>
+            Сбор гостей
+          </h3>
+          <p>
+            15:00
+          </p>
+        </div>
+        <div className='shaha'>
+          <img src={Shaha} alt='shaha'/>
         </div>
       </div>
     </div>
