@@ -16,8 +16,8 @@ function App() {
         <h2>06.09.2025</h2>
         <h3>ГЛЕБ & ОЛЬГА</h3>
         <div className='persons'>
-          <img className='personOne' src={Ola}/>
-          <img className='personTwo' src={Gleb}/>   
+          <img className='personOne' src={Ola} alt="Ola"/>
+          <img className='personTwo' src={Gleb} alt="Gleb"/>   
         </div>
       </div>
       <div
