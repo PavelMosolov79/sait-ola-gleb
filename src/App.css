@@ -1,0 +1,46 @@
+
+
+.one-block {
+  font-family: 'Itim', cursive;
+  height: 100vh;
+  background-size: 100% 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.one-block h1 {
+  font-size: 50px;
+  margin: unset;
+  margin-top: 30px;
+  color: #A9301A;
+}
+
+.one-block h2 {
+  margin: unset;
+  font-size: 50px;
+  margin-top: 30px;
+  color: #A9301A;
+}
+
+.one-block h3 {
+  font-size: 110px;
+  margin: unset;
+  color: #A9301A;
+}
+
+.persons {
+  position: relative;
+  z-index: 500;
+}
+
+.persons .personOne {
+  left: calc(-100vw/4);
+  position: absolute;
+}
+
+.persons .personTwo {
+  position: absolute;
+  left: calc(-100vw/8);
+  top: 100px;
+}
