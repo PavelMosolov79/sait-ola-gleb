@@ -16,7 +16,7 @@ function App() {
         className='one-block'
       >
         <h1>wedding</h1>
-        <h2>06.09.2025</h2>
+        <h2>07.09.2025</h2>
         <h3>ГЛЕБ & ОЛЬГА</h3>
         <div className='personsImage'>
           <div className='persons'>
