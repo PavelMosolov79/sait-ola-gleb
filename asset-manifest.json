@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sait-ola-gleb/static/css/main.6721ec0f.css",
-    "main.js": "/sait-ola-gleb/static/js/main.5ccd4f6b.js",
+    "main.js": "/sait-ola-gleb/static/js/main.9d11964c.js",
     "static/js/453.6b6d8d49.chunk.js": "/sait-ola-gleb/static/js/453.6b6d8d49.chunk.js",
     "static/media/paperTwo.png": "/sait-ola-gleb/static/media/paperTwo.586cefeecd3ce9301ea3.png",
     "static/media/paper.png": "/sait-ola-gleb/static/media/paper.4a6a45f03a4895eb1c42.png",
@@ -11,11 +11,11 @@
     "static/media/gleb.png": "/sait-ola-gleb/static/media/gleb.fbe98dd1b7bb00ac5c08.png",
     "index.html": "/sait-ola-gleb/index.html",
     "main.6721ec0f.css.map": "/sait-ola-gleb/static/css/main.6721ec0f.css.map",
-    "main.5ccd4f6b.js.map": "/sait-ola-gleb/static/js/main.5ccd4f6b.js.map",
+    "main.9d11964c.js.map": "/sait-ola-gleb/static/js/main.9d11964c.js.map",
     "453.6b6d8d49.chunk.js.map": "/sait-ola-gleb/static/js/453.6b6d8d49.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6721ec0f.css",
-    "static/js/main.5ccd4f6b.js"
+    "static/js/main.9d11964c.js"
   ]
 }
