@@ -65,7 +65,7 @@ function App() {
         <h3>Подтверждение</h3>
         <p>Большая просьба подтвердить свое присутствие не позднее 15.08.2025</p>
         <a 
-          href='https://web.telegram.org/k/#@Lol666z'
+          href='https://t.me/@Lol666z'
           className='hrefGoTo'
         >
           Подтвердить присутствие
