@@ -6,7 +6,7 @@
 @media (min-width: 425px) {
   .one-block {
     font-family: 'Itim', cursive;
-    height: 100vh;
+    height: 1200px;
     background-size: 100% 100%;
     display: flex;
     align-items: center;
@@ -39,13 +39,91 @@
   }
 
   .persons .personOne {
-    left: calc(-100vw/4);
+    left: 50%;
+    transform: translateX(-65%);
     position: absolute;
   }
 
   .persons .personTwo {
     position: absolute;
-    left: calc(-100vw/8);
-    top: 100px;
+    top: 150px;
+    left: 100px;
+    left: 50%;
+    transform: translateX(-25%);
+  }
+
+  .two-block {
+    font-family: 'Itim', cursive;
+    height: 1000px;
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .two-block p {
+    margin: unset;
+    font-size: 30px;
+    padding-top: 30px;
+    color: #A9301A;
+    text-align: center;
+  }
+
+  .two-block h3 {
+    font-size: 60px;
+    margin: unset;
+    color: #A9301A;
+    padding-top: 30px;
+    text-align: center;
+  }
+
+  .three-block {
+    font-family: 'Itim', cursive;
+    height: 780px;
+    background-size: 100% 100%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 10px !important;
+  }
+
+  .three-block>div>div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .ymaps-2-1-79-map {
+    display: flex !important;
+    justify-content: center;
+  }
+
+  .three-block p {
+    margin: unset;
+    font-size: 30px;
+    padding-top: 30px;
+    color: #A9301A;
+    text-align: center;
+  }
+
+  .three-block h3 {
+    font-size: 60px;
+    margin: unset;
+    color: #A9301A;
+    padding-top: 30px;
+    text-align: center;
+  }
+
+  .hrefGoTo {
+    border-radius: 30px;
+    background-color: #A9301A;
+    color: black;
+    padding: 10px 20px;
+    margin-top: 40px;
+    text-decoration: none;
+  }
+
+  .ymaps-2-1-79-map {
+    width: 90% !important;
   }
 }

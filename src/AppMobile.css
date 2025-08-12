@@ -33,7 +33,7 @@
 
   .one-block {
     font-family: 'Itim', cursive;
-    height: 100vh;
+    height: 800px;
     background-size: 100% 100%;
     display: flex;
     align-items: center;
@@ -65,7 +65,7 @@
 
   .two-block {
     font-family: 'Itim', cursive;
-    height: 100vh;
+    height: 800px;
     background-size: 100% 100%;
     display: flex;
     align-items: center;
@@ -86,6 +86,7 @@
     margin-top: 30px;
     color: #A9301A;
     text-align: center;
+    padding: 0px 10px;
   }
 
   .shaha {
@@ -101,12 +102,14 @@
 
   .three-block {
     font-family: 'Itim', cursive;
-    height: 100vh;
+    height: 800px;
     background-size: 100% 100%;
     display: flex;
     align-items: center;
     flex-direction: column;
     padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
   }
 
   .three-block>div {
